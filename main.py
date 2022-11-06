@@ -90,4 +90,8 @@ def main():
         print("        Dilawar")
     else:
         print("\n\nThank You For Using Programe")
-main()
+try:
+  main()
+except:
+  print('Error ')
+  main()
