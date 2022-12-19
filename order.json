@@ -1,18 +1,10 @@
 [
     {
-        "order__item_name": "ss",
-        "order_by": "sambhav",
-        "order_item": "SYSKA",
-        "order_qty": "5",
-        "order_amount": "10000",
-        "order_date": "10/12/2022"
-    },
-    {
-        "order__item_name": "phone",
-        "order_by": "sambhav",
-        "order_item": "Galaxy 31m",
-        "order_qty": "1",
-        "order_amount": "50000",
-        "order_date": "10/9/2023"
+        "order_item_name": "Sambhav",
+        "order_by": "hello",
+        "order_item": "SYSKA-P1002",
+        "order_qty": 5,
+        "order_amount": 50000,
+        "order_date": "12/5/2005"
     }
 ]
